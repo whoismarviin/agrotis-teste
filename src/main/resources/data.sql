@@ -1,0 +1,1 @@
+insert into laboratorio(id, nome)  values (1, AgroSkynet), (2,UmbrellaAgro), (3, OsbornAgro), (4,SkyrimAgro), (5,AgroBrasil) ;
